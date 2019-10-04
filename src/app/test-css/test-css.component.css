@@ -1,0 +1,45 @@
+.box-first {
+    margin-top: 2%;
+}
+
+.box {
+    background-color: #001a66;
+    color: white;
+    border-left: 5px solid red;
+    margin-bottom: 4%;
+}
+
+.icon-1 {
+    background: url(src/assets/img/1.png) no-repeat;
+    height: 30px;
+    left: 10%;
+    width: 34px;
+}
+
+.box-body {
+    padding-top: 10%;
+}
+
+.title-head {
+    padding-top: 2%;
+    font-size: 20px;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: "Times New Roman", Times, serif;
+    text-overflow: ellipsis;
+}
+
+.number-head {
+    font-size: 30px;
+    right: 28px;
+    font-family: "Times New Roman", Times, serif;
+    color: orange;
+    font-weight: bold;
+}
+
+.number-sl {
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
